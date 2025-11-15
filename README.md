@@ -6,14 +6,16 @@ This repository contains a **knowledge package** extracted from the MyInvois SDK
 
 ## Folder Structure
 
+```
 knowledge_package/
-├─ markdown/ # Individual Markdown files per page
-├─ apis/ # Detected OpenAPI/Swagger JSON/YAML files
-├─ combined_markdown.md # All pages concatenated
-├─ summary.md # Short extracts per page
-├─ chunks.jsonl # LLM embedding-ready chunks (JSONL)
-├─ api_summaries.md # List of discovered API files
-└─ metadata.json # Page metadata (URL, MD5 hash, updated)
+├─ markdown/             # Individual Markdown files per page
+├─ apis/                 # Detected OpenAPI/Swagger JSON/YAML files
+├─ combined_markdown.md  # All pages concatenated
+├─ summary.md            # Short extracts per page
+├─ chunks.jsonl          # LLM embedding-ready chunks (JSONL)
+├─ api_summaries.md      # List of discovered API files
+└─ metadata.json         # Page metadata (URL, MD5 hash, updated)
+```
 
 ---
 
