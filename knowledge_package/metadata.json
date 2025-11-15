@@ -1,0 +1,738 @@
+{
+  "base_url": "https://sdk.myinvois.hasil.gov.my/",
+  "scraped_at": "2025-11-15T04:51:41Z",
+  "pages": [
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/",
+      "md_path": "knowledge_package/markdown/index.md",
+      "md5": "4d0006add4507c0b035c543797fc0ea9",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/api/",
+      "md_path": "knowledge_package/markdown/api.md",
+      "md5": "1e98eac7f4c93d55927185788a9f31ea",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/release-notes/",
+      "md_path": "knowledge_package/markdown/release-notes.md",
+      "md5": "a7ff8840e89c16e10040a761c7c06bdb",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/start/",
+      "md_path": "knowledge_package/markdown/start.md",
+      "md5": "268fa451fb9f7d900aece4af8f03fb9a",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/faq/",
+      "md_path": "knowledge_package/markdown/faq.md",
+      "md5": "5c38ab9548ae9fb58b9c852086bc04e3",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/contacts/",
+      "md_path": "knowledge_package/markdown/contacts.md",
+      "md5": "117303fd4d9b366e1702c78ff256cb65",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/api/03-get-document-types/",
+      "md_path": "knowledge_package/markdown/api__03-get-document-types.md",
+      "md5": "06814fbe083c932cbbb9d324ec1eff47",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/api/05-get-document-type-version/",
+      "md_path": "knowledge_package/markdown/api__05-get-document-type-version.md",
+      "md5": "18d67572191e135debd9280c0afb68d3",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/codes/",
+      "md_path": "knowledge_package/markdown/codes.md",
+      "md5": "20ecfa8dfc8748121ff1c93d9fc878bf",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/api/08-login-as-intermediary-system/",
+      "md_path": "knowledge_package/markdown/api__08-login-as-intermediary-system.md",
+      "md5": "200fc72ebe0701f96461e561c70c2ce2",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/api/06-get-notifications/",
+      "md_path": "knowledge_package/markdown/api__06-get-notifications.md",
+      "md5": "e1fd1aee51b7240c541ccbaf84c74965",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/types/",
+      "md_path": "knowledge_package/markdown/types.md",
+      "md5": "74d676a5ef4f2f9858ee542bc728b024",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/",
+      "md_path": "knowledge_package/markdown/einvoicingapi.md",
+      "md5": "fc449039bb7e3a3201d4ba4b905c57ef",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/document-validation-rules/",
+      "md_path": "knowledge_package/markdown/document-validation-rules.md",
+      "md5": "b6b1c3ade31fc96fe93b3d2ccf96056f",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/api/04-get-document-type/",
+      "md_path": "knowledge_package/markdown/api__04-get-document-type.md",
+      "md5": "6a8c8c204b6574cd4a9281995d81af6b",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/api/07-login-as-taxpayer-system/",
+      "md_path": "knowledge_package/markdown/api__07-login-as-taxpayer-system.md",
+      "md5": "43cf10d20ab5cd2ce6a9b77149a340fe",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/standard-header-parameters/",
+      "md_path": "knowledge_package/markdown/standard-header-parameters.md",
+      "md5": "0a990239e834ae8adce14c2f7eda9c67",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/integration-practices/",
+      "md_path": "knowledge_package/markdown/integration-practices.md",
+      "md5": "c42f863dab157582e1dc665b590464e0",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/01-validate-taxpayer-tin/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__01-validate-taxpayer-tin.md",
+      "md5": "43565228bf256c28ddc367609200d89b",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/codes/tax-types/",
+      "md_path": "knowledge_package/markdown/codes__tax-types.md",
+      "md5": "3cc38a300f47a94622ddd01d6ad236f8",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/02-submit-documents/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__02-submit-documents.md",
+      "md5": "5ff504dc71f59c01ce5d3f72b219f63b",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sample-ul-invoice-2.1-signed.min.json",
+      "md_path": "knowledge_package/markdown/files__sample-ul-invoice-2.1-signed.min.json.md",
+      "md5": "0626551801ed4773edc1a34fbe88bdcd",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/sample/",
+      "md_path": "knowledge_package/markdown/sample.md",
+      "md5": "d9c017acb01360150aaacf1a2c7c5949",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/signature/",
+      "md_path": "knowledge_package/markdown/signature.md",
+      "md5": "f1835340bb6e9fc5142aa5529f158be7",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/one-doc-signed.xml",
+      "md_path": "knowledge_package/markdown/files__one-doc-signed.xml.md",
+      "md5": "1e3c4d5d0ce1ecbbae67f6ce4b6d58a1",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/sample",
+      "md_path": "knowledge_package/markdown/sample.md",
+      "md5": "d9c017acb01360150aaacf1a2c7c5949",
+      "updated": false
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/postman",
+      "md_path": "knowledge_package/markdown/postman.md",
+      "md5": "3ce3d70927e6fead946d8c49920536cf",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/standard-error-response/",
+      "md_path": "knowledge_package/markdown/standard-error-response.md",
+      "md5": "a86943fca55d55c6260cd278ce042fb3",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/03-cancel-document/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__03-cancel-document.md",
+      "md5": "aca81b0011809950a1a8667c22073dd6",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/07-get-document/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__07-get-document.md",
+      "md5": "0a3e1413849ca47b446883ba3277c20b",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/06-get-submission/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__06-get-submission.md",
+      "md5": "28e496d7a3ab3c9e492ad06d0f4a2ea5",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/integration-practices",
+      "md_path": "knowledge_package/markdown/integration-practices.md",
+      "md5": "c42f863dab157582e1dc665b590464e0",
+      "updated": false
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/postman/",
+      "md_path": "knowledge_package/markdown/postman.md",
+      "md5": "3ce3d70927e6fead946d8c49920536cf",
+      "updated": false
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/signature-creation/",
+      "md_path": "knowledge_package/markdown/signature-creation.md",
+      "md5": "2a2de5f63d5f99a91adeb24d7734189a",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/signature-creation-json/",
+      "md_path": "knowledge_package/markdown/signature-creation-json.md",
+      "md5": "ac1e33487c66b960916d08669a921967",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/Digital_Signature_User_Guide.pdf",
+      "md_path": "knowledge_package/markdown/files__Digital_Signature_User_Guide.pdf.md",
+      "md5": "c7409973c5e9e19ac65c1243d188a8ff",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/04-reject-document/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__04-reject-document.md",
+      "md5": "51cc5f62a1a57bd07ca6ac96495336b9",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/08-get-document-details/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__08-get-document-details.md",
+      "md5": "38f64f6fa4175d349d5628d94381be3c",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/11-qr-code/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__11-qr-code.md",
+      "md5": "14034a2fb42799ff2d9c8992c33f183e",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/09-search-documents/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__09-search-documents.md",
+      "md5": "575a017181c1c08a78e4a74195540ef5",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/05-get-recent-documents/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__05-get-recent-documents.md",
+      "md5": "be4d8e92a0aacb0629bc2eb5297207c2",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/einvoicingapi/10-search-taxpayer-tin/",
+      "md_path": "knowledge_package/markdown/einvoicingapi__10-search-taxpayer-tin.md",
+      "md5": "fad9345e6253f11cace43245be0a4f72",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/codes/state-codes/",
+      "md_path": "knowledge_package/markdown/codes__state-codes.md",
+      "md5": "30154a43ea290c7ccf95c0cb1e8d7b9d",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/codes/e-invoice-types/",
+      "md_path": "knowledge_package/markdown/codes__e-invoice-types.md",
+      "md5": "43301c5524dff2e9c3130c91fcd32195",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/codes/payment-methods/",
+      "md_path": "knowledge_package/markdown/codes__payment-methods.md",
+      "md5": "2564b930dab2cc2baadb66701ff75291",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/codes/classification-codes/",
+      "md_path": "knowledge_package/markdown/codes__classification-codes.md",
+      "md5": "3806e36b98ffbef0cd64e43ed6e8eacd",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/codes/countries/",
+      "md_path": "knowledge_package/markdown/codes__countries.md",
+      "md5": "e6f1e69d440f3b0ad673fc064958ec25",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/codes/currencies/",
+      "md_path": "knowledge_package/markdown/codes__currencies.md",
+      "md5": "f2ef1e0b063ef48c7a5405eb1c66a727",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/codes/msic-codes/",
+      "md_path": "knowledge_package/markdown/codes__msic-codes.md",
+      "md5": "1d9e3ed8200f308883f81571ee676555",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/codes/unit-types/",
+      "md_path": "knowledge_package/markdown/codes__unit-types.md",
+      "md5": "8ea98a15153f5e7883a080a2fc5f3a0e",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/EInvoiceTypes.json",
+      "md_path": "knowledge_package/markdown/files__EInvoiceTypes.json.md",
+      "md5": "3a4aaa4c2c75fb816298662f6dcd7762",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/StateCodes.json",
+      "md_path": "knowledge_package/markdown/files__StateCodes.json.md",
+      "md5": "2e71f8ac1501cc71d2263245c52138d7",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/UnitTypes.json",
+      "md_path": "knowledge_package/markdown/files__UnitTypes.json.md",
+      "md5": "1e0980c423de13f45ce61878756a1e1f",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/PaymentMethods.json",
+      "md_path": "knowledge_package/markdown/files__PaymentMethods.json.md",
+      "md5": "87518ae4595d4baeef62e662fa506dd3",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/CurrencyCodes.json",
+      "md_path": "knowledge_package/markdown/files__CurrencyCodes.json.md",
+      "md5": "2942f1d987236064a9c3645043056f35",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/TaxTypes.json",
+      "md_path": "knowledge_package/markdown/files__TaxTypes.json.md",
+      "md5": "64783cc98bd7c33b0108bca5172dca58",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/CountryCodes.json",
+      "md_path": "knowledge_package/markdown/files__CountryCodes.json.md",
+      "md5": "66641501f01c40742b259148ef4314bd",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/MSICSubCategoryCodes.json",
+      "md_path": "knowledge_package/markdown/files__MSICSubCategoryCodes.json.md",
+      "md5": "605eb84573e5791c81323497761f6f0a",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/sdk-(beta)-release/",
+      "md_path": "knowledge_package/markdown/sdk-(beta)-release.md",
+      "md5": "8f32d84a1bf8f989af3c7e1e390d4e84",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/sdk-1-0-release/",
+      "md_path": "knowledge_package/markdown/sdk-1-0-release.md",
+      "md5": "79f98e7217281ebd42865807e68edd94",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/invoice-v1-0/",
+      "md_path": "knowledge_package/markdown/documents__invoice-v1-0.md",
+      "md5": "84736b92feb7505d868ad21c69dfee13",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/debit-v1-0/",
+      "md_path": "knowledge_package/markdown/documents__debit-v1-0.md",
+      "md5": "bd13c23093abcb20ce2b4d043a55cf9f",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/credit-v1-1/",
+      "md_path": "knowledge_package/markdown/documents__credit-v1-1.md",
+      "md5": "f231bd02d00836a29ec287329e971785",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/self-billed-invoice-v1-1/",
+      "md_path": "knowledge_package/markdown/documents__self-billed-invoice-v1-1.md",
+      "md5": "4ac1496d5941446a4e9e5e720e829580",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/self-billed-invoice-v1-0/",
+      "md_path": "knowledge_package/markdown/documents__self-billed-invoice-v1-0.md",
+      "md5": "3af2bfb3e8348d17373fdc0cf75bd32c",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/debit-v1-1/",
+      "md_path": "knowledge_package/markdown/documents__debit-v1-1.md",
+      "md5": "67ed04103994a309274793e59ea2f83a",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/self-billed-credit-v1-0/",
+      "md_path": "knowledge_package/markdown/documents__self-billed-credit-v1-0.md",
+      "md5": "84f03a4c7fe929809f18194d1587873f",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/self-billed-credit-v1-1/",
+      "md_path": "knowledge_package/markdown/documents__self-billed-credit-v1-1.md",
+      "md5": "f95bede01ffc13cb51bc9acd29138cd6",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/invoice-v1-1/",
+      "md_path": "knowledge_package/markdown/documents__invoice-v1-1.md",
+      "md5": "fcc32ccb28158d492931df401aeadb82",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/self-billed-debit-v1-0/",
+      "md_path": "knowledge_package/markdown/documents__self-billed-debit-v1-0.md",
+      "md5": "c3355462b991e89a967e4bfd6a403409",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/credit-v1-0/",
+      "md_path": "knowledge_package/markdown/documents__credit-v1-0.md",
+      "md5": "7a6723730569e65698300b40db2b430c",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/refund-v1-1/",
+      "md_path": "knowledge_package/markdown/documents__refund-v1-1.md",
+      "md5": "84330e267a942712a7803f9b27a0aaf0",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/refund-v1-0/",
+      "md_path": "knowledge_package/markdown/documents__refund-v1-0.md",
+      "md5": "e5486045d8b2da8fe07ddb83bf65cee2",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/self-billed-debit-v1-1/",
+      "md_path": "knowledge_package/markdown/documents__self-billed-debit-v1-1.md",
+      "md5": "e0f69079c3081c8efb393c12e5e82640",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/self-billed-refund-v1-1/",
+      "md_path": "knowledge_package/markdown/documents__self-billed-refund-v1-1.md",
+      "md5": "7c8f23f92240d7fb4cf51db18c4f91c5",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/documents/self-billed-refund-v1-0/",
+      "md_path": "knowledge_package/markdown/documents__self-billed-refund-v1-0.md",
+      "md5": "e935c3aa0cf0816fbe4ca25dfe38af8d",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Invoice-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Invoice-Sample.xml.md",
+      "md5": "dd9f7a4ec42e14a555c02148bf50f3fe",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/mathematical-mappings/",
+      "md_path": "knowledge_package/markdown/mathematical-mappings.md",
+      "md5": "3fb7bd2928b0cff9763507b5838f694d",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Invoice-MultiLineItem-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Invoice-MultiLineItem-Sample.xml.md",
+      "md5": "e1cf6179d70873fbe733eb554bfaea95",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Invoice-ForeignCurrency-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Invoice-ForeignCurrency-Sample.xml.md",
+      "md5": "97c9d67c95d1b547914c2df6b95ebaff",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Invoice-MultiLineItem-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Invoice-MultiLineItem-Sample.json.md",
+      "md5": "7d4bc2dff0283c57e26cd83c21efab50",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Invoice-ForeignCurrency-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Invoice-ForeignCurrency-Sample.json.md",
+      "md5": "beb96714434e0e1cd3011f7e900526e1",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Invoice-Consolidated-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Invoice-Consolidated-Sample.json.md",
+      "md5": "86c1c9f2b28d04f62fd4088f070976d8",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Invoice-Consolidated-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Invoice-Consolidated-Sample.xml.md",
+      "md5": "d505ab85d2aa822f5c5f68b382365168",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Invoice-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Invoice-Sample.json.md",
+      "md5": "80876dde8957a06eb992338fc2ced601",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Self-Billed-Invoice-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Self-Billed-Invoice-Sample.xml.md",
+      "md5": "aadd60db4a966059bd3a5e94f683efbd",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Self-Billed-Invoice-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Self-Billed-Invoice-Sample.json.md",
+      "md5": "2160ae89f1612845e83938c57bd57fb9",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Refund-Note-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Refund-Note-Sample.json.md",
+      "md5": "052e0755b635475f6c2e0c003bfa1504",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Refund-Note-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Refund-Note-Sample.xml.md",
+      "md5": "2397031823add1018964f84f5b975121",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Self-Billed-Credit-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Self-Billed-Credit-Sample.xml.md",
+      "md5": "c8895431359e3464a7de861754fa96a1",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Self-Billed-Credit-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Self-Billed-Credit-Sample.json.md",
+      "md5": "bb1a382e107885bd3922ee4e3b75ef0e",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Self-Billed-Credit-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Self-Billed-Credit-Sample.json.md",
+      "md5": "61c9233ca17173b7d5d834fa8ebb6b95",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Self-Billed-Credit-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Self-Billed-Credit-Sample.xml.md",
+      "md5": "676e15e31fd3e871bbc555956d1684d5",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Debit-Note-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Debit-Note-Sample.xml.md",
+      "md5": "1f56aa630c442e86358576821e498186",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Debit-Note-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Debit-Note-Sample.json.md",
+      "md5": "d379b0364750d85f806753e5b34cef90",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Credit-Note-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Credit-Note-Sample.xml.md",
+      "md5": "5f72c494d8e32c44868ebf365e96e2c5",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Credit-Note-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Credit-Note-Sample.json.md",
+      "md5": "043229636d8d3d3927140be8bed57fac",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Debit-Note-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Debit-Note-Sample.json.md",
+      "md5": "214cdb78ad3b34770a7914e757799384",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Debit-Note-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Debit-Note-Sample.xml.md",
+      "md5": "8fd2d4d79e7caaa4efa65c24df3eaa44",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Invoice-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Invoice-Sample.json.md",
+      "md5": "f9530d1b781ae6c2e240fdd2c026c010",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Invoice-Consolidated-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Invoice-Consolidated-Sample.json.md",
+      "md5": "ec6a75ee1628d8ac1040a93459c85c1d",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Invoice-ForeignCurrency-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Invoice-ForeignCurrency-Sample.json.md",
+      "md5": "1b6a819fb9e9e09a72cac2d1c5f1bfaf",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Invoice-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Invoice-Sample.xml.md",
+      "md5": "1e3c4d5d0ce1ecbbae67f6ce4b6d58a1",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Invoice-MultiLineItem-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Invoice-MultiLineItem-Sample.json.md",
+      "md5": "f9988583acbb7e77520829223eef2bab",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Invoice-ForeignCurrency-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Invoice-ForeignCurrency-Sample.xml.md",
+      "md5": "5bf342593a8345579d32893aa88b7a67",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Invoice-MultiLineItem-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Invoice-MultiLineItem-Sample.xml.md",
+      "md5": "a8998e429a91b7f7deb867ee67f275c9",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Invoice-Consolidated-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Invoice-Consolidated-Sample.xml.md",
+      "md5": "95f5ccba591575341f7c07b783572b7e",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Self-Billed-Refund-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Self-Billed-Refund-Sample.xml.md",
+      "md5": "ca9aae2f642485acbdb453ffd931500f",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Self-Billed-Refund-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Self-Billed-Refund-Sample.json.md",
+      "md5": "99b60bed36d758db1f82237a2be447fe",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Refund-Note-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Refund-Note-Sample.json.md",
+      "md5": "bb94436ddb817a0c908abcdcea693e5f",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Refund-Note-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Refund-Note-Sample.xml.md",
+      "md5": "5e0a1ae7d1812d6dec8da64e6e808aa8",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Self-Billed-Debit-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Self-Billed-Debit-Sample.json.md",
+      "md5": "898fb70470f9167e918c6eb0fc3653f6",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Self-Billed-Debit-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Self-Billed-Debit-Sample.xml.md",
+      "md5": "3f1922624c2dd1ffc19b14f406aa15ea",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Self-Billed-Invoice-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Self-Billed-Invoice-Sample.xml.md",
+      "md5": "0b11e3581ffc1f681ac8e5b19eedd167",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Self-Billed-Invoice-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Self-Billed-Invoice-Sample.json.md",
+      "md5": "ba2427dd61e2a7b944f622e05884ab8e",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Credit-Note-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Credit-Note-Sample.json.md",
+      "md5": "631c3657619035a4bcadf408e621dd51",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.1-Credit-Note-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.1-Credit-Note-Sample.xml.md",
+      "md5": "46b486e6b95709f8b1fb46e5e9d9acad",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Self-Billed-Debit-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Self-Billed-Debit-Sample.xml.md",
+      "md5": "3a95537842d1bfbec5ba63a28c01d89b",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Self-Billed-Refund-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Self-Billed-Refund-Sample.json.md",
+      "md5": "416d9b9d37b58656f4b8d26c4e12999c",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Self-Billed-Debit-Sample.json",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Self-Billed-Debit-Sample.json.md",
+      "md5": "068a22a732173310d13809e8f0ae0f8c",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/sdksamples/1.0-Self-Billed-Refund-Sample.xml",
+      "md_path": "knowledge_package/markdown/files__sdksamples__1.0-Self-Billed-Refund-Sample.xml.md",
+      "md5": "282617a79fd5a30a0be96b4ebd35ca1f",
+      "updated": true
+    },
+    {
+      "url": "https://sdk.myinvois.hasil.gov.my/files/ClassificationCodes.json",
+      "md_path": "knowledge_package/markdown/files__ClassificationCodes.json.md",
+      "md5": "d4e3d13fb62bbf67f3d4798e72a6c093",
+      "updated": true
+    }
+  ]
+}

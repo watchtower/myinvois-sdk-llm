@@ -1,0 +1,113 @@
+XML-INV12345
+2024-07-23
+00:40:00Z
+01
+MYR
+MYR
+
+46510
+
+Supplier's TIN
+
+Supplier's BRN
+
+NA
+
+NA
+
+Kuala Lumpur
+50480
+14
+
+Lot 66
+
+Bangunan Merdeka
+
+Persiaran Jaya
+
+MYS
+
+Supplier's Name
+
++60123456789
+supplier@email.com
+
+EI00000000010
+
+NA
+
+NA
+
+NA
+
+NA
+
+Consolidated Buyers
+
+NA
+NA
+
+3000
+
+30000
+3000
+
+01
+
+OTH
+
+30000
+30000
+33000
+0
+0
+0
+33000
+
+1
+1
+10000
+
+1000
+
+10000
+1000
+10.00
+
+01
+
+OTH
+
+Receipt 001 - 100
+
+MYS
+
+004
+
+10000
+
+10000
+
+2
+1
+20000
+
+2000
+
+20000
+2000
+10.00
+
+01
+
+OTH
+
+Receipt 101 - 200
+
+MYS
+
+004
+
+20000
+
+20000
