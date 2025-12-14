@@ -33,3 +33,16 @@ knowledge_package/
 3. **API schemas**
     - Stored in `apis/`.
     - `api_summaries.md` lists each detected API schema along with its source URL.
+
+---
+
+## Official IRBM Guidelines
+
+This repository also includes the official e-Invoice guidelines from IRBM (PDF format):
+
+| File | Description |
+|------|-------------|
+| `guideline/irbm-e-invoice-guideline.pdf` | e-Invoice Guideline Version 4.6 (Published 7 Dec 2025) |
+| `guideline/irbm-e-invoice-specific-guideline.pdf` | e-Invoice Specific Guideline Version 4.5 (Published 7 Dec 2025) |
+
+> **Note:** The knowledge package (`knowledge_package/`) contains **SDK technical documentation** (APIs, data structures, code tables, validation rules). The PDF guidelines contain **policy and compliance information** (implementation timelines, exemptions, transitional provisions) which is not part of the SDK website.
