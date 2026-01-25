@@ -35,7 +35,8 @@ SDK 1.0 Release
  • Update was made on 13 June 2025.   
  • Update was made on 4 July 2025.   
  • Update was made on 1 August 2025.   
- • Update was made on 9 August 2025.
+ • Update was made on 9 August 2025.   
+ • Update was made on 10 December 2025.
 
 [Read more](/sdk-1-0-release/)
 

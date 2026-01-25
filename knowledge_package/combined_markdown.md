@@ -9935,6 +9935,11 @@ The invoice is stored in the local database with a specific status. The status i
 | Invalid | 3 | The status of a submitted invoice with validation issues |
 | Cancelled | 4 | The status of an invoice cancelled by the issuer |
 
+Can an e-Invoice code or number include special characters?
+-----------------------------------------------------------
+
+The system does not restrict the use of any special characters in the e-Invoice code or number.
+
 Application Programming Interface (API)
 =======================================
 
@@ -10278,6 +10283,11 @@ Why am I receiving the error stating “ItemCode 00 was not active when document
 The error message “ItemCode 00 was not active when document issued” indicates that the item code ‘00’ was either not defined, inactive, or incorrectly configured in the system’s item master data at the time the e-invoice was submitted. This means the system could not validate the item as active, which is a requirement for successful document processing.
 
 Additionally, please note that the use of state code ‘00’ is no longer valid for issuing e-invoices via API or Batch Upload and refer to the SDK at the following link for the correct list of state codes: https://sdk.myinvois.hasil.gov.my/codes/state-codes/
+
+How can I submit an e-Invoice with multiple tax types through the API?
+----------------------------------------------------------------------
+
+Multiple tax types can be included by repeating the “TaxSubtotal” element within the line item section.
 
 [Back to homepage](/)
 
@@ -58392,7 +58402,8 @@ SDK 1.0 Release
  • Update was made on 13 June 2025.   
  • Update was made on 4 July 2025.   
  • Update was made on 1 August 2025.   
- • Update was made on 9 August 2025.
+ • Update was made on 9 August 2025.   
+ • Update was made on 10 December 2025.
 
 [Read more](/sdk-1-0-release/)
 
@@ -58539,7 +58550,7 @@ SDK 1.0 Release
 SDK 1.0 Release
 ===============
 
-01 Aug 2025 - Lembaga Hasil Dalam Negeri Malaysia
+10 Dec 2025 - Lembaga Hasil Dalam Negeri Malaysia
 
 Lembaga Hasil Dalam Negeri Malaysia has provisioned SDK 1.0 Release to help taxpayers in preparing for the upcoming MyInvois System. SDK Updates section below highlights key updates as part of this release.
 
@@ -58550,6 +58561,36 @@ In order for taxpayers to access the URLs for the various environments, please e
 
 SDK Updates
 ===========
+
+**10 December 2025**
+
+**Updates to Fields Validation**
+
+• To enhance data integrity, taxpayers will be required to comply with the validation rules for the following fields:
+
+  a) **Date fields** will only accept valid date formats (YYYY-MM-DD). Entries such as “N/A” will no longer be permitted.
+
+  b) **Supplier’s Bank Account number** must not exceed 150 characters.
+
+  c) **e-Invoice Code/Number** must not exceed 50 characters.
+
+  d) **Authorisation Number for Certified Exporter** must not exceed 300 characters.
+
+  e) **Incoterms** must not exceed 3 characters.
+
+  f) **Frequency of Billing** must not exceed 50 characters.
+
+  g) **Unit of Measurement** must follow unit code stated **[here](https://sdk.myinvois.hasil.gov.my/codes/unit-types/)**.
+
+  h) **Supplier’s Business Activity Description** must not exceed 300 characters.
+
+  i) **Payment Terms** must not exceed 300 characters.
+
+  j) **PrePayment Reference Number** must not exceed 150 characters.
+
+Please ensure your systems are updated to align with these rules ahead of the upcoming changes. Submissions that do not meet the validation requirements may not be processed successfully.
+
+These changes will take effect in the **Sandbox environment on 15 December 2025**. Deployment to the **Production environment has been postponed until further notice.**
 
 **9 August 2025**
 

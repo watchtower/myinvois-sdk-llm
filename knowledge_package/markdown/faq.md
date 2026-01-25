@@ -59,6 +59,11 @@ The invoice is stored in the local database with a specific status. The status i
 | Invalid | 3 | The status of a submitted invoice with validation issues |
 | Cancelled | 4 | The status of an invoice cancelled by the issuer |
 
+Can an e-Invoice code or number include special characters?
+-----------------------------------------------------------
+
+The system does not restrict the use of any special characters in the e-Invoice code or number.
+
 Application Programming Interface (API)
 =======================================
 
@@ -402,5 +407,10 @@ Why am I receiving the error stating “ItemCode 00 was not active when document
 The error message “ItemCode 00 was not active when document issued” indicates that the item code ‘00’ was either not defined, inactive, or incorrectly configured in the system’s item master data at the time the e-invoice was submitted. This means the system could not validate the item as active, which is a requirement for successful document processing.
 
 Additionally, please note that the use of state code ‘00’ is no longer valid for issuing e-invoices via API or Batch Upload and refer to the SDK at the following link for the correct list of state codes: https://sdk.myinvois.hasil.gov.my/codes/state-codes/
+
+How can I submit an e-Invoice with multiple tax types through the API?
+----------------------------------------------------------------------
+
+Multiple tax types can be included by repeating the “TaxSubtotal” element within the line item section.
 
 [Back to homepage](/)
