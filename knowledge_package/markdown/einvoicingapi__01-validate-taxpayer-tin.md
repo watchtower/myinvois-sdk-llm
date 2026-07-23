@@ -1,14 +1,4 @@
 Validate Taxpayer's TIN
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Validate Taxpayer's TIN
 =======================
 
 This API allows taxpayer's ERP system to validate specific Tax Identification Number (TIN) before adding this number to an invoice and issuing the invoice.
@@ -67,5 +57,3 @@ Notes
 • It is not advised to call this API before every document submission as in this case this may result in these calls being flagged and throttled as well.
 
 • Always review the integration recommended practices here [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to make sure your ERP integration is implemented following them and following healthy integration patterns.
-
-[Back to homepage](/)

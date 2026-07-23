@@ -1,6 +1,4 @@
 Software Development Kit (SDK) for Lembaga Hasil Dalam Negeri Malaysia (LHDNM) MyInvois System
-
-Software Development Kit (SDK) for Lembaga Hasil Dalam Negeri Malaysia (LHDNM) MyInvois System
 ==============================================================================================
 
 MyInvois is the solution of the Lembaga Hasil Dalam Negeri Malaysia (LHDNM) used by taxpayers to submit their issued documents with the Tax Authority, get notified on events related to document issuance. This site contains documentation of the APIs exposed to taxpayer ERP systems that can be used to integrate with MyInvois System to automate the document processing.

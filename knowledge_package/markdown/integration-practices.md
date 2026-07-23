@@ -1,14 +1,4 @@
 Integration Practices
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Integration Practices
 =====================
 
 This page explains about the Integration Practices that will help users to integrate with the API.
@@ -87,6 +77,7 @@ Rate limiting controls API usage spikes by restricting the number of calls allow
 | Get Recent Documents | 12 |
 | Search Documents | 12 |
 | Search Taxpayer’s TIN | 60 |
+| Validate Taxpayer’s TIN | 60 |
 | Taxpayer’s QR Code | 60 |
 
 **What Happens When Limits Are Exceeded?**
@@ -141,5 +132,3 @@ while inProgress is true:
         inProgress = false
         return submissionStatus
 ```
-
-[Back to homepage](/)

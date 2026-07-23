@@ -1,14 +1,4 @@
 Submit Documents
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Submit Documents
 ================
 
 This API allows taxpayer to submit one or more signed documents to MyInvois System.
@@ -170,5 +160,3 @@ Notes
 • Avoid repeated submissions of the same document without considering the results from the initial submission API. The API provides immediate processing results, which should be reviewed prior to any resubmission. A threshold of 100 request per minute (RPM) for this API is advised.
 
 • Always review the integration recommended practices at [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to ensure your ERP integration is in accordance with these guidelines and follows healthy integration patterns.
-
-[Back to homepage](/)

@@ -1,14 +1,4 @@
 Taxpayer's QR Code
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Taxpayer's QR Code
 ==================
 
 This API allows taxpayer’s ERP system to search and retrieve the information for a specific Taxpayer based on the Base64 formatted string obtained from scanning the respective QR code.
@@ -92,5 +82,3 @@ Additional specialised error messages can be returned as a result of validation 
 | HTTP status code | Error code | Description |
 | --- | --- | --- |
 | 404 | NotFound | QR Code Not Found |
-
-[Back to homepage](/)

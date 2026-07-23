@@ -1,14 +1,4 @@
 Signature
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Signature
 =========
 
 Page describes the signature elements, creation and validation.
@@ -164,5 +154,3 @@ Signature Sample
 Disclaimer: The sample JSON file is for digital signature illustration purposes only. Taxpayers are advised to consult local laws and regulations for guidance on digital signature implementation.
 
 ---
-
-[Back to homepage](/)

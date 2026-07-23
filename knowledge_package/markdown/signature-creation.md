@@ -1,14 +1,4 @@
 Document Signature Creation
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Document Signature Creation
 ===========================
 
 Page describes the the algorithm of how signatures for documents submitted should be created.
@@ -109,5 +99,3 @@ Additional Consideration
 The JSON document digital signature creation has been also clarified in this page : [Signature Creation JSON](/signature-creation-json/)
 
 A sample PowerShell script for document digital signature creation can be found in this page : [Powershell Script For Signing JSON File](/files/Digital_Signature_User_Guide.pdf).
-
-[Back to homepage](/)

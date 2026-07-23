@@ -1,14 +1,4 @@
 Frequently Asked Questions
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Frequently Asked Questions
 ==========================
 
 Answers to frequently asked questions about MyInvois system integration approach
@@ -413,4 +403,7 @@ How can I submit an e-Invoice with multiple tax types through the API?
 
 Multiple tax types can be included by repeating the “TaxSubtotal” element within the line item section.
 
-[Back to homepage](/)
+Why am I receiving the error “Search criteria is not conclusive and more than one TIN can be found to match the search criteria provided, please revise the search criteria” when using the Search Taxpayer’s TIN API, while the MyTax Search TIN function returns a single valid TIN?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+You may need to refine or provide more specific search parameters when using the API to avoid ambiguous results. You may refer to the following link for the supported search parameters: https://sdk.myinvois.hasil.gov.my/einvoicingapi/10-search-taxpayer-tin/

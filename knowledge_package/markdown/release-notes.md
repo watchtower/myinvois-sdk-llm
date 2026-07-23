@@ -1,14 +1,4 @@
 Release Notes
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Release Notes
 =============
 
 This section contain new items related to SDK and technical aspects of the solution.
@@ -36,7 +26,14 @@ SDK 1.0 Release
  • Update was made on 4 July 2025.   
  • Update was made on 1 August 2025.   
  • Update was made on 9 August 2025.   
- • Update was made on 10 December 2025.
+ • Update was made on 10 December 2025.   
+ • Update was made on 6 February 2026.   
+ • Update was made on 10 April 2026.   
+ • Update was made on 30 April 2026.   
+ • Update was made on 12 June 2026.  
+ • Update was made on 03 July 2026.   
+ • Update was made on 08 July 2026.   
+ • Update was made on 17 July 2026.
 
 [Read more](/sdk-1-0-release/)
 
@@ -46,5 +43,3 @@ Sdk (beta) Release
 The SDK (Beta) was published and made available on 9 February 2024
 
 [Read more](/sdk-(beta)-release/)
-
-[Back to homepage](/)

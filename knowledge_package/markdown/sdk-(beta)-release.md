@@ -1,14 +1,4 @@
 Sdk (beta) Release
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Sdk (beta) Release
 ==================
 
 09 Feb 2024 - Lembaga Hasil Dalam Negeri Malaysia
@@ -29,5 +19,3 @@ Document Version Updates
 ========================
 
 TBD
-
-[Back to homepage](/)

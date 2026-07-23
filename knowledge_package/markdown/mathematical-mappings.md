@@ -1,14 +1,4 @@
 Mathematical Mappings And Calculations
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Mathematical Mappings And Calculations
 ======================================
 
 In order to perform mathematical mapping and calculation, follow these guidelines.
@@ -26,5 +16,3 @@ In order to perform mathematical mapping and calculation, follow these guideline
 | Total taxable amount per tax type | SUM(/ ubl:Invoice / cac:InvoiceLine / cbc:LineExtensionAmount (Total Excluding Tax) [same tax type]) - (/ ubl:Invoice / cac:InvoiceLine / cac:TaxTotal / cac:TaxSubtotal / cbc:TaxableAmount[cac:TaxCategory / cbc:ID) = ‘E’] (Amount Exempted from Tax)) |
 | Total tax amount per tax type | SUM(/ ubl:Invoice / cac:InvoiceLine / cac:TaxTotal / cbc:TaxAmount (Tax Amount) [same tax type]) |
 | Total tax amount (on invoice level) | SUM(/ ubl:Invoice / cac:TaxTotal / cac:TaxSubtotal / cbc:TaxAmount) (Total tax amount per tax type) |
-
-[Back to homepage](/)

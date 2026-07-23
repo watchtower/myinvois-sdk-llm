@@ -1,14 +1,4 @@
 Get Recent Documents
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Get Recent Documents
 ====================
 
 This API allows taxpayer's systems to search the documents sent or received which are available on the MyInvois System using various filters. This API will only return documents that are issued within the last 31 days.
@@ -143,5 +133,3 @@ Notes
 • Kindly note that the ‘Get Recent Documents’ API is intended to assist with troubleshooting issues, rather than for reconciliation between your ERP system and the MyInvois system. Excessive use of this API for purposes other than troubleshooting may result in system throttling.
 
 • Always review the integration recommended practices at [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to ensure your ERP integration is in accordance with these guidelines and follows healthy integration patterns.
-
-[Back to homepage](/)

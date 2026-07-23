@@ -1,14 +1,4 @@
 Get Document
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Get Document
 ============
 
 This API allows taxpayers to retrieve document source in XML or JSON format along with the additional tax authority metadata.
@@ -111,5 +101,3 @@ Notes
 • Repeated invocation of this API to retrieve document details can lead to unnecessary system load and inefficiency. Instead, maintain a local copy of the documents. This ensures documents can be accessed when needed without frequent API calls, thereby improving system performance and reducing overhead.
 
 • Always review the integration recommended practices at [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to ensure your ERP integration is in accordance with these guidelines and follows healthy integration patterns.
-
-[Back to homepage](/)

@@ -1,14 +1,4 @@
 Payment Modes
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Payment Modes
 =============
 
 Payment Mode refers to the chosen mechanism through which funds are transferred from buyer to supplier.
@@ -43,5 +33,3 @@ Additional Considerations
 =========================
 
 Note that when submitting the documents, taxpayers should be using the code values.
-
-[Back to homepage](/)

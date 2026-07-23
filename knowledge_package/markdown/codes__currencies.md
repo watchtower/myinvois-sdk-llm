@@ -1,14 +1,4 @@
 Currency Codes
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Currency Codes
 ==============
 
 List of currency codes allowed as part of the document information during document submission.
@@ -215,5 +205,3 @@ Additional Considerations
 =========================
 
 Note that when submitting the documents, taxpayers should be using the code values.
-
-[Back to homepage](/)

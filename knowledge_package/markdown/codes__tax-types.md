@@ -1,14 +1,4 @@
 Tax Types
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Tax Types
 =========
 
 List of tax types allowed as part of the document and submission.
@@ -45,5 +35,3 @@ Additional Considerations
 =========================
 
 * Relevant tax type should be provided during submitting the documents.
-
-[Back to homepage](/)

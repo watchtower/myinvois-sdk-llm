@@ -1,14 +1,4 @@
 Get Document Type Version
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Get Document Type Version
 =========================
 
 This API allows taxpayer's ERP system to retrieve the details of document type version that contains structure definitions of the documents.
@@ -74,5 +64,3 @@ Additional considerations
 -------------------------
 
 To get the ID used to call this API, taxpayer system needs to first call API returning list of the [document types and their versions](/api/03-get-document-types/).
-
-[Back to homepage](/)

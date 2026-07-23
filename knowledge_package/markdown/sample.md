@@ -1,14 +1,4 @@
 Sample
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Sample
 ======
 
 Page contain sample payload for each type of invoice
@@ -67,5 +57,3 @@ The table below provides details about the available sample payload.
 | 42 | [Self-Billed Refund Note 1.0 Sample JSON](/files/sdksamples/1.0-Self-Billed-Refund-Sample.json) |
 | 43 | [Self-Billed Refund Note 1.1 Sample XML](/files/sdksamples/1.1-Self-Billed-Refund-Sample.xml) |
 | 44 | [Self-Billed Refund Note 1.1 Sample JSON](/files/sdksamples/1.1-Self-Billed-Refund-Sample.json) |
-
-[Back to homepage](/)

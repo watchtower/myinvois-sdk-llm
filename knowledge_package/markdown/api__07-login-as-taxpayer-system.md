@@ -1,14 +1,4 @@
 Login as Taxpayer System
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Login as Taxpayer System
 ========================
 
 This API is used to authenticate the ERP system associated with a specific taxpayer calling and issue access token which allows ERP system to access those protected APIs.
@@ -91,5 +81,3 @@ Notes
 • To optimise performance, avoid making frequent login attempts. Instead, use session tokens to maintain active sessions. In the event of failed login attempts, implement retry mechanisms with exponential backoff to prevent overloading the system. Always ensure that credentials are securely stored, and use HTTPS for all API calls to safeguard sensitive data.
 
 • Always review the integration recommended practices at [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to ensure your ERP integration is in accordance with these guidelines and follows healthy integration patterns.
-
-[Back to homepage](/)

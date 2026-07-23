@@ -1,14 +1,4 @@
 Document validation rules
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Document validation rules
 =========================
 
 Page describes the validation that is getting applied on every submitted document.
@@ -66,5 +56,3 @@ Currency Validator
 ------------------
 
 Validator is used to ensure correct usage of currency codes and exchange rates.
-
-[Back to homepage](/)

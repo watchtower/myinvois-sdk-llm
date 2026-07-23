@@ -1,14 +1,4 @@
 Postman
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Postman
 =======
 
 Page describes about the Postman elements, creation and validation.
@@ -40,5 +30,3 @@ To install the environments file, follow these steps:
 
 Alternatively, click on the `Gear Icon` button at the top right-hand corner to open the Settings. Turn off “SSL Certificate Verification” as shown in the image below.
 ![SSL Certificate Verification](/images/faq-install-env-06.png)
-
-[Back to homepage](/)

@@ -1,14 +1,4 @@
 Contacts
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Contacts
 ========
 
 Find LHDNM contact information to reach out in case of any questions regarding MyInvois System and APIs
@@ -29,5 +19,3 @@ Helpdesk Support Hotline
 ========================
 
 Contact Number : 03 - 8682 8000
-
-[Back to homepage](/)

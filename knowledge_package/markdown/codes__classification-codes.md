@@ -1,14 +1,4 @@
 Classification Codes
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Classification Codes
 ====================
 
 List of the classification codes and descriptions.
@@ -80,5 +70,3 @@ Additional Considerations
 =========================
 
 Note that when submitting the documents, taxpayers should be using the code values.
-
-[Back to homepage](/)

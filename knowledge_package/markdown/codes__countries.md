@@ -1,14 +1,4 @@
 Country Codes
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Country Codes
 =============
 
 List of country codes allowed as part of the address information as part of the document submission. Country codes are also used for the "Country of Origin" data field.
@@ -290,5 +280,3 @@ Additional Considerations
 =========================
 
 Note that when submitting the documents, taxpayers should be using the code values.
-
-[Back to homepage](/)

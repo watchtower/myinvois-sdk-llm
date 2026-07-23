@@ -1,14 +1,4 @@
 Get Notifications
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Get Notifications
 =================
 
 This API allows ERP system to query for previously sent notifications.
@@ -133,5 +123,3 @@ Additional considerations
 -------------------------
 
 Maximum page size allowed is defined by e-Invoice system administrators.
-
-[Back to homepage](/)

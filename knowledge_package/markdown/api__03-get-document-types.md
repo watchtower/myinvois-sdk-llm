@@ -1,14 +1,4 @@
 Get All Document Types
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Get All Document Types
 ======================
 
 This API allows taxpayer's systems to retrieve list of document types published by the MyInvois System.
@@ -78,5 +68,3 @@ Additional considerations
 -------------------------
 
 When document type list is returned to caller, they can query more detailed information about [document type](/api/04-get-document-type/) or [document type version](/api/05-get-document-type-version/) using returned internal identifiers.
-
-[Back to homepage](/)

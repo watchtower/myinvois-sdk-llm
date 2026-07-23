@@ -1,14 +1,4 @@
 Standard Error Response
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Standard Error Response
 =======================
 
 Page describes the standard error data structure and standard error codes that APIs of e-Invoice are using. If there are specialized error code and messages for a specific API, these are defined in API definition page.
@@ -79,5 +69,3 @@ Correlation Information
 =======================
 
 When error is encountered, API returns correlation ID as part of `correlationId` response header value that can be used to identify the failed request when raising an issue with support team.
-
-[Back to homepage](/)

@@ -1,14 +1,4 @@
 e-Invoice APIs
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-e-Invoice APIs
 ==============
 
 Definition of the API that taxpayer systems can leverage to deal with the actual Invoice documents.
@@ -97,5 +87,3 @@ Taxpayer's QR Code
 This API allows taxpayer’s ERP system to search and retrieve the information for a specific Taxpayer based on the Base64 formatted string obtained from scanning the respective QR code.
 
 [Read more](/einvoicingapi/11-qr-code/)
-
-[Back to homepage](/)

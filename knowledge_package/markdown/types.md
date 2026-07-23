@@ -1,14 +1,4 @@
 Types
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Types
 =====
 
 The section contains the definitions of the document structures that APIs can operate within the current version of the MyInvois System.  
@@ -26,6 +16,12 @@ Invoice is a commercial document issued by Supplier to itemise and record a tran
 * [Invoice v1.1](/documents/invoice-v1-1/)
 
   v1.1 of the Invoice document type structure is maintained as v1.0, the only difference is that signature validation is enabled on this version.
+* [Invoice v1.2 (SVDP)](/documents/invoice-v1-2/)
+
+  v1.2 (SVDP) of the Invoice document type structure is maintained as v1.0, no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
+* [Invoice v1.3 (SVDP)](/documents/invoice-v1-3/)
+
+  v1.3 (SVDP) of the Invoice document type structure is maintained as v1.1 (with digital signature), no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
 
 Credit Note
 -----------
@@ -38,6 +34,12 @@ Credit note is the document issued by Suppliers to correct errors, apply discoun
 * [Credit Note v1.1](/documents/credit-v1-1/)
 
   v1.1 of the Credit Note document type structure is maintained as v1.0, the only difference is that signature validation is enabled on this version.
+* [Credit Note v1.2 (SVDP)](/documents/credit-v1-2/)
+
+  v1.2 (SVDP) of the Credit Note document type structure is maintained as v1.0, no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
+* [Credit Note v1.3 (SVDP)](/documents/credit-v1-3/)
+
+  v1.3 (SVDP) of the Credit Note document type structure is maintained as v1.1 (with digital signature), no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
 
 Debit Note
 ----------
@@ -49,7 +51,13 @@ Debit note is the document issued to indicate additional charges on a previously
   v1.0 of the Debit Note document type structure is maintained as v1.1, the only difference is that signature validation is disabled on this version. This version will be deprecated and replaced by version 1.1 at a later date that will be announced later.
 * [Debit Note v1.1](/documents/debit-v1-1/)
 
-  v1.1 of the debit Note document type structure is maintained as v1.0, the only difference is that signature validation is enabled on this version.
+  v1.1 of the Debit Note document type structure is maintained as v1.0, the only difference is that signature validation is enabled on this version.
+* [Debit Note v1.2 (SVDP)](/documents/debit-v1-2/)
+
+  v1.2 (SVDP) of the Debit Note document type structure is maintained as v1.0, no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
+* [Debit Note v1.3 (SVDP)](/documents/debit-v1-3/)
+
+  v1.3 (SVDP) of the Debit Note document type structure is maintained as v1.1 (with digital signature), no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
 
 Refund Note
 -----------
@@ -61,7 +69,13 @@ Refund note is the document issued by a Supplier to confirm the refund of the Bu
   v1.0 of the Refund Note document type structure is maintained as v1.1, the only difference is that signature validation is disabled on this version. This version will be deprecated and replaced by version 1.1 at a later date that will be announced later.
 * [Refund Note v1.1](/documents/refund-v1-1/)
 
-  v1.1 of the refund Note document type structure is maintained as v1.0, the only difference is that signature validation is enabled on this version.
+  v1.1 of the Refund Note document type structure is maintained as v1.0, the only difference is that signature validation is enabled on this version.
+* [Refund Note v1.2 (SVDP)](/documents/refund-v1-2/)
+
+  v1.2 (SVDP) of the Refund Note document type structure is maintained asv1.0, no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
+* [Refund Note v1.3 (SVDP)](/documents/refund-v1-3/)
+
+  v1.3 (SVDP) of the Refund Note document type structure is maintained as v1.1 (with digital signature), no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
 
 Self-Billed Invoice
 -------------------
@@ -72,10 +86,16 @@ Self-Billed Invoice refers to the initial self-billed e-Invoice that will be iss
 
 * [Self-Billed Invoice v1.0](/documents/self-billed-invoice-v1-0/)
 
-  v1.0 of the Self-Billed Invoice ddocument type structure is maintained as v1.1, the only difference is that signature validation is disabled on this version. This version will be deprecated and replaced by version 1.1 at a later date that will be announced later.
+  v1.0 of the Self-Billed Invoice document type structure is maintained as v1.1, the only difference is that signature validation is disabled on this version. This version will be deprecated and replaced by version 1.1 at a later date that will be announced later.
 * [Self-Billed Invoice v1.1](/documents/self-billed-invoice-v1-1/)
 
   v1.1 of the Self-Billed Invoice document type is the initial version of the Invoices supported by the MyInvois System
+* [Self-Billed Invoice v1.2 (SVDP)](/documents/self-billed-invoice-v1-2/)
+
+  v1.2 (SVDP) of the Self-Billed Invoice document type structure is maintained as v1.0, no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
+* [Self-Billed Invoice v1.3 (SVDP)](/documents/self-billed-invoice-v1-3/)
+
+  v1.3 (SVDP) of the Self-Billed Invoice document type structure is maintained as v1.1 (with digital signature), no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
 
 Self-Billed Credit Note
 -----------------------
@@ -88,6 +108,12 @@ Self-Billed Credit Note is issued by Buyers to correct errors, apply discounts, 
 * [Self-Billed Credit Note v1.1](/documents/self-billed-credit-v1-1/)
 
   v1.1 of the Self-Billed Credit Note document type structure is maintained as v1.0, the only difference is that signature validation is enabled on this version.
+* [Self-Billed Credit Note v1.2 (SVDP)](/documents/self-billed-credit-v1-2/)
+
+  v1.2 (SVDP) of the Self-Billed Credit Note document type structure is maintained as v1.0, no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
+* [Self-Billed Credit Note v1.3 (SVDP)](/documents/self-billed-credit-v1-3/)
+
+  v1.3 (SVDP) of the Self-Billed Credit Note document type structure is maintained as v1.1 (with digital signature), no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
 
 Self-Billed Debit Note
 ----------------------
@@ -100,6 +126,12 @@ Self-Billed Debit Note is the document issued by Buyers to indicate additional c
 * [Self-Billed Debit Note v1.1](/documents/self-billed-debit-v1-1/)
 
   v1.1 of the Self-Billed Debit Note document type structure is maintained as v1.0, the only difference is that signature validation is enabled on this version.
+* [Self-Billed Debit Note v1.2 (SVDP)](/documents/self-billed-debit-v1-2/)
+
+  v1.2 (SVDP) of the Self-Billed Debit Note document type structure is maintained as v1.0, no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
+* [Self-Billed Debit Note v1.3 (SVDP)](/documents/self-billed-debit-v1-3/)
+
+  v1.3 (SVDP) of the Self-Billed Debit Note document type structure is maintained as v1.1 (with digital signature), no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
 
 Self-Billed Refund Note
 -----------------------
@@ -112,5 +144,9 @@ Self-Billed Refund Note is the document issued by Buyers to confirm the refund o
 * [Self-Billed Refund Note v1.1](/documents/self-billed-refund-v1-1/)
 
   v1.1 of the Self-Billed Refund Note document type structure is maintained as v1.0, the only difference is that signature validation is enabled on this version.
+* [Self-Billed Refund Note v1.2 (SVDP)](/documents/self-billed-refund-v1-2/)
 
-[Back to homepage](/)
+  v1.2 (SVDP) of the Self-Billed Refund Note document type structure is maintained as v1.0, no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027
+* [Self-Billed Refund Note v1.3 (SVDP)](/documents/self-billed-refund-v1-3/)
+
+  v1.3 (SVDP) of the Self-Billed Refund Note document type structure is maintained as v1.1 (with digital signature), no structural changes or new elements. This version only applicable during e-invoice Voluntary Disclosure (VD) Programme until 31 December 2027

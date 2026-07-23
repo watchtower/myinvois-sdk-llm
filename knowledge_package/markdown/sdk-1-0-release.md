@@ -1,17 +1,7 @@
 SDK 1.0 Release
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-SDK 1.0 Release
 ===============
 
-10 Dec 2025 - Lembaga Hasil Dalam Negeri Malaysia
+17 Jul 2026 - Lembaga Hasil Dalam Negeri Malaysia
 
 Lembaga Hasil Dalam Negeri Malaysia has provisioned SDK 1.0 Release to help taxpayers in preparing for the upcoming MyInvois System. SDK Updates section below highlights key updates as part of this release.
 
@@ -22,6 +12,134 @@ In order for taxpayers to access the URLs for the various environments, please e
 
 SDK Updates
 ===========
+
+**17 July 2026**
+
+**Updates to Documentation for Tax Exemption**
+
+• The SDK documentation has been updated to clarify the treatment of tax amounts for tax-exempt transactions. The element **cbc:TaxAmount is not required to be 0.00.** Taxpayers may report the actual tax amount that would have been payable prior to the exemption. The presence of cbc:TaxExemptionReason does not imply that cbc:TaxAmount must be zero. No validation rules have been changed, and existing intergrations remain unaffected.
+
+**08 July 2026**
+
+**Introduction to New Document Versions for e-Invoice Special Voluntary Disclosure Programme (SVDP)**
+
+• **e-Invoice Special Voluntary Disclosure Programme (SVDP) has been introduced** as an ongoing effort to support taxpayers in regularising their e-Invoice compliance, effective period until 31 December 2027.
+
+• To support the implementation of the programme, **HASiL has introduced new document versions** in the MyInvois Software Development Kit (SDK).
+
+o SVDP 1.2 – without digital signature   
+o SVDP 1.3 – with digital signature
+
+Taxpayers and service providers are advised to update their systems in accordance with the **latest SDK specifications and refer to the e-Invoice Guideline and Specific Guidelines** for the applicable requirements and procedures under e-Invoice SVDP.
+
+• Taxpayers and service providers are advised to ensure the following:
+
+  a. **Update your integration** to support the new document versions (SVDP 1.2 and SVDP 1.3)
+
+  b. The document version SVDP 1.2 and SVDP 1.3 can only be **used during the effective period** of the e-Invoice SVDP.
+
+  c. For Batch Upload users, please **download and use the latest version of the Batch Upload** template that supports the document version SVDP 1.2 and SVDP 1.3 before submitting e-Invoices.
+
+  d. All existing document validation rules remain applicable unless otherwise specified in the SDK.
+
+Please refer to the sample below for reference:
+
+[Invoice SVDP 1.2 (without digital signature) Sample XML](/files/sdksamples/1.2-Invoice-Sample.xml)  
+[Invoice SVDP 1.2 (without digital signature) Sample JSON](/files/sdksamples/1.2-Invoice-Sample.json)  
+[Invoice SVDP 1.3 (with digital signature) Sample XML](/files/sdksamples/1.3-Invoice-Sample.xml)  
+[Invoice SVDP 1.3 (with digital signature) Sample JSON](/files/sdksamples/1.3-Invoice-Sample.json)
+
+Please ensure your system is updated to support SVDP 1.2 or SVDP 1.3 to facilitate participation in the e-Invoice SVDP, enabling taxpayers to rectify inaccuracies and regularise compliance with HASiL’s e-Invoice requirements.
+
+**03 July 2026**
+
+**Production Deployment of Fields Validation Updates**
+
+• We are pleased to announce that the enhanced field validation rules previously introduced will now be deployed to the **Production environment on 15 August 2026.**
+
+As communicated earlier, these updates are designed to improve data integrity and ensure standardisation across submissions. The validation rules apply to the following fields:
+
+  a) Date fields must follow the valid format (YYYY-MM-DD). Entries such as “N/A” are not permitted.
+
+  b) Supplier’s Bank Account number must not exceed 150 characters.
+
+  c) e-Invoice Code/Number must not exceed 50 characters.
+
+  d) Authorisation Number for Certified Exporter must not exceed 300 characters.
+
+  e) Incoterms must not exceed 3 characters.
+
+  f) Frequency of Billing must not exceed 50 characters.
+
+  g) Unit of Measurement must follow unit code stated [here](https://sdk.myinvois.hasil.gov.my/codes/unit-types/)
+
+  h) Supplier’s Business Activity Description must not exceed 300 characters.
+
+  i) Payment Terms must not exceed 300 characters.
+
+  j) PrePayment Reference Number must not exceed 150 characters.
+
+Following successful deployment and validation in the Sandbox environment since **15 December 2025,** these rules will now be enforced in Production.
+
+Please ensure that your systems are fully updated and compliant with these validation requirements prior to the deployment date. Submissions that do not meet the validation criteria may fail to process.
+
+**Other Fields for to Follow Character Limit Validation**
+
+• To further enhance data standardisation and accuracy, please follow the character limit for the following fields:
+
+  a) State Code must follow as stated [here](https://sdk.myinvois.hasil.gov.my/codes/state-codes/) for **Malaysia** and must not exceed **50 characters for non-Malaysia.**
+
+  b) Shipping Postcode must not exceed **5 characters for Malaysia** and **50 characters for non-Malaysia.**
+
+  c) Country Code must follow as stated [here](https://sdk.myinvois.hasil.gov.my/codes/countries/)
+
+  d) Payment Mode must follow as stated [here](https://sdk.myinvois.hasil.gov.my/codes/payment-methods/)
+
+  e) Tax Type Code must follow as stated [here](https://sdk.myinvois.hasil.gov.my/codes/tax-types/)
+
+  f) Currency Code must follow as stated [here](https://sdk.myinvois.hasil.gov.my/codes/currencies/)
+
+Please ensure your systems are updated and comply with the fields character limit for successful submissions.
+
+**12 June 2026**
+
+**Latest Update on Validate Taxpayer’s TIN API**
+
+• To enhance data accuracy and quality, HASiL will introduce Taxpayer Identification Number (TIN) and Business Registration Number (BRN) validation starting 1 August 2026.
+
+This validation will be implemented for the Validate Taxpayer’s TIN API, and taxpayers are advised to follow the requirements outlined in the Software Development Kit (SDK) in preparation for this update.
+
+Taxpayers are advised to ensure the following:
+
+  a) Obtain updated and accurate BRN information from Buyers  
+  b) Remind buyers to update their latest BRN information with HASiL to ensure consistency between the BRN provided to your company and HASiL records
+
+We appreciate your cooperation as we work to ensure a smooth e-Invoicing process.
+
+**30 April 2026**
+
+**Updates to Fields Validation**
+
+• Effectively immediately, State Code 17 can only be used in the following cases:
+
+  a) Consolidated e-Invoices issued in Malaysia, or
+
+  b) e-Invoices for transactions outside Malaysia.
+
+• Scientific notation is not supported in any amount fields. All amount values must be provided in standard numeric format using plain numbers with optional decimal points.
+
+**10 April 2026**
+
+**Other Updates**
+
+• Added “Hectare” to the list of Unit of Measurements in Codes page. Kindly refer to
+https://sdk.myinvois.hasil.gov.my/codes/unit-types/
+
+**6 February 2026**
+
+**Other Updates**
+
+• The SSL certificate for [myinvois.hasil.gov.my](https://myinvois.hasil.gov.my/) will be renewed on 8 February 2026.
 
 **10 December 2025**
 
@@ -329,5 +447,3 @@ Document Version Updates
 ========================
 
 Addition of Version 1.1 for all Document Types for Signature Validation.
-
-[Back to homepage](/)

@@ -1,14 +1,4 @@
 Search Documents
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Search Documents
 ================
 
 This API allows taxpayer's systems to search the documents sent or received which are available on the MyInvois System using various filters.
@@ -150,5 +140,3 @@ Notes
 • Optimise search queries by applying specific filters and parameters to narrow down the results, improving the efficiency of your searches. Avoid making repetitive searches with identical criteria, and where applicable, cache the results to reduce redundant API calls.
 
 • Always review the integration recommended practices at [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to ensure your ERP integration is in accordance with these guidelines and follows healthy integration patterns.
-
-[Back to homepage](/)

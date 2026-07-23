@@ -1,14 +1,4 @@
 Unit of measurement
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Unit of measurement
 ===================
 
 List of unit of measurement types allowed as part of the document line information as part of the document submission.
@@ -938,6 +928,7 @@ Unit Types
 | H99 | percent per metre |
 | HA | hank |
 | HAD | Piece Day |
+| HAR | Hectare |
 | HBA | hectobar |
 | HBX | hundred boxes |
 | HC | hundred count |
@@ -2200,5 +2191,3 @@ Additional Considerations
 =========================
 
 * Relevant unit type should be provided during submitting the documents.
-
-[Back to homepage](/)

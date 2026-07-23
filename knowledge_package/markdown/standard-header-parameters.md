@@ -1,14 +1,4 @@
 Standard Header Parameters
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Standard Header Parameters
 ==========================
 
 Page describes the standard header parameters that can be used by all APIs of the e-Invoice public API except those where explicitly stated otherwise.
@@ -51,5 +41,3 @@ These header parameters apply to all calls to all APIs if not explicitly stated 
 | X-Rate-Limit-Limit | Number | A number representing the total requests count for this client against API. | 1000 |
 | X-Rate-Limit-Remaining | Number | A number representing the remaining allowed requests count for this client against API. | 900 |
 | X-Rate-Limit-Reset | DateTime | Time in which the count will reset, assuming no further calls were attempted. The header will appear only when the limits have been exceeded. | 2020-05-04T12:23:41.6181792Z |
-
-[Back to homepage](/)

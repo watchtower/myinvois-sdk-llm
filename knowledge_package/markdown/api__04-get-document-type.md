@@ -1,14 +1,4 @@
 Get Document Type
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Get Document Type
 =================
 
 This API allows taxpayer's ERP system to retrieve the details of single document type that contains structure definitions of the document.
@@ -91,5 +81,3 @@ Additional considerations
 -------------------------
 
 To get the ID used to call this API, taxpayer system needs to first call API returning list of the [document types](/api/03-get-document-types/).
-
-[Back to homepage](/)

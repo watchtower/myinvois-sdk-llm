@@ -1,14 +1,4 @@
 Get Document Details
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Get Document Details
 ====================
 
 This API allows taxpayers to retrieve a single document's full details including validation results.
@@ -124,5 +114,3 @@ Notes
 • Kindly note that the ‘Get Document Details’ API should be used exclusively for retrieving error information or exceptions related to invalid documents. For status updates, please use the ‘Get Submission’ API and adhere to a polling frequency of 3-5 seconds to avoid system throttling.
 
 • Always review the integration recommended practices at [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to ensure your ERP integration is in accordance with these guidelines and follows healthy integration patterns.
-
-[Back to homepage](/)

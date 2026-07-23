@@ -1,14 +1,4 @@
 Reject Document
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Reject Document
 ===============
 
 This API allows a buyer that received an invoice to reject it and request the supplier to cancel it.
@@ -90,5 +80,3 @@ Notes
 • Thoroughly validate rejection criteria before invoking the rejection API to avoid incorrect rejections.
 
 • Always review the integration recommended practices at [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to ensure your ERP integration is in accordance with these guidelines and follows healthy integration patterns.
-
-[Back to homepage](/)

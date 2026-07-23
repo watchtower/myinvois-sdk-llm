@@ -1,14 +1,4 @@
 Application Programming Interface (API)
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Application Programming Interface (API)
 =======================================
 
 Platform API focuses on key platform functionalities and not dealing with the actual Invoice document.
@@ -56,5 +46,3 @@ Get Notifications
 This API allows ERP system to query for previously sent notifications.
 
 [Read more](/api/06-get-notifications/)
-
-[Back to homepage](/)

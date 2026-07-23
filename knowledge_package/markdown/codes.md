@@ -1,14 +1,4 @@
 Code Tables
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Code Tables
 ===========
 
 Section contains the definitions of the code tables for reference purposes.
@@ -75,5 +65,3 @@ Unit of measurement
 List of unit of measurement types allowed as part of the document line information as part of the document submission.
 
 [Read more](/codes/unit-types/)
-
-[Back to homepage](/)

@@ -1,14 +1,4 @@
 Search Taxpayer's TIN
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Search Taxpayer's TIN
 =====================
 
 This API allows taxpayer's ERP system to search for a specific Tax Identification Number (TIN) using the supported search parameters. The supported search parameters are either:  
@@ -96,5 +86,3 @@ Notes
 • It is not advised to call this API before every document submission as in this case this may result in these calls being flagged and throttled as well.
 
 • Always review the integration recommended practices at [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to ensure your ERP integration is in accordance with these guidelines and follows healthy integration patterns.
-
-[Back to homepage](/)

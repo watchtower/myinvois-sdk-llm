@@ -1,14 +1,4 @@
 Get Submission
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Get Submission
 ==============
 
 This API returns information on documents submitted during a single submission by taxpayer.
@@ -114,5 +104,3 @@ Notes
 • To prevent system overload and ensure optimal functionality, it is recommend to adjust the ‘Get Submission’ API calls to a polling interval of 3-5 seconds, with a maximum rate of 300 request per minute (RPM).
 
 • Always review the integration recommended practices at [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to ensure your ERP integration is in accordance with these guidelines and follows healthy integration patterns.
-
-[Back to homepage](/)

@@ -1,14 +1,4 @@
 Getting started...
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Getting started...
 ==================
 
 This page provides more information regarding the MyInvois System
@@ -68,5 +58,3 @@ Feedback or queries
 LHDNM is committed to providing exceptional service and solutions to taxpayers while endeavouring to ensure a successful e-Invoice implementation. We appreciate your understanding and welcome your valuable feedback. Please refer to our [contacts page](/contacts/) to share your thoughts and feedback.
 
 For additional information on e-Invoice and system integration, please refer to the [FAQ](/faq/) section of the microsite.
-
-[Back to homepage](/)

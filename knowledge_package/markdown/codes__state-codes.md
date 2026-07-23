@@ -1,14 +1,4 @@
 State Codes
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-State Codes
 ===========
 
 List of the state codes representing the names of states and federal territories in Malaysia.
@@ -52,5 +42,3 @@ Additional Considerations
 =========================
 
 Note that when submitting the documents, taxpayers should be using the code values.
-
-[Back to homepage](/)

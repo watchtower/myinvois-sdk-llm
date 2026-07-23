@@ -1,14 +1,4 @@
 Cancel Document
-
-* [Release Notes](/release-notes/)
-* [API](/api/)
-* [Types](/types/)
-* [Codes](/codes/)
-* [Validations](/document-validation-rules/)
-* [FAQ](/faq/)
-* [Contacts](/contacts/)
-
-Cancel Document
 ===============
 
 This API allows issuer to cancel previously issued document, either self-induced cancellation or by accepting a rejection request made by the buyer.
@@ -91,5 +81,3 @@ Notes
 • Please ensure the UUID is correct before attempting to cancel a submission to avoid unnecessary API calls.
 
 • Always review the integration recommended practices at [sdk.myinvois.hasil.gov.my/integration-practices](https://sdk.myinvois.hasil.gov.my/integration-practices) to ensure your ERP integration is in accordance with these guidelines and follows healthy integration patterns.
-
-[Back to homepage](/)
